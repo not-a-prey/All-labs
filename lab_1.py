@@ -1,3 +1,4 @@
+"""∑_(i=a)^n▒∑_(j=b)^m▒(i/j)/(i+2)"""
 a = input("Enter a: ")
 b = input("Enter b: ")
 n = input("Enter n: ")
